@@ -78,3 +78,5 @@ console.log();
 console.log(Chalk.yellow.bold("----END-----"));
 console.log();
 console.log(Chalk.green.bold("High Scorer - Aditya (3) & Iram (3)"));
+console.log();
+console.log(Chalk.yellow("Send screenshot if you beat the high scrorer"));
